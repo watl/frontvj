@@ -1,4 +1,24 @@
-#
-proyecto front crud vue
-* Creado en vue 3 por cli, esta creado bajo option api de vue.
-* proyecto backend se realizo en net core 6, con EF core, BD Postgresql.
+# vfrontweb
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
